@@ -8,7 +8,7 @@
 
 Sou graduado em **Análise e Desenvolvimento de Sistemas** na Faculdade de Engenharia de Sorocaba (**FACENS**) 🎓.
 
-Atualmente, estou embarcando em uma jornada apaixonante na área de tecnologia. Minha experiência profissional na **IBIUNET MultiPlay** me proporcionou insights valiosos sobre infraestrutura de redes e suporte técnico, onde desenvolvi expertise em:
+Atualmente, estou embarcando em uma jornada apaixonante na área de tecnologia na empresa **Vincii Soluções**. Minha experiência profissional na **IBIUNET MultiPlay** me proporcionou insights valiosos sobre infraestrutura de redes e suporte técnico, onde desenvolvi expertise em:
 * Conexões de rede e protocolos (UDP, TCP, IP fixo)
 * Configuração e troubleshooting de HDCP
 * Excelência em atendimento ao cliente
